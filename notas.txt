@@ -1,0 +1,18 @@
+Descrição:
+---------
+Este é o FRONTEND da API AluraBooks que é uma loja virtual que vende livros da Casa do Código.
+
+GitHUB:
+------
+https://github.com/sergiokanno/api-alurabooks-frontend.git
+
+
+Instruções para Compilar e Executar Backend da API alurabooks:
+-------------------------------------------------------------
+cd curso-react-alurabooks
+
+npm install
+
+npm start
+
+https://localhost:3000
